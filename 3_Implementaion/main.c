@@ -10,6 +10,7 @@
 int main(){  
     printf("\n\t\t\t\tSCIENTIFIC_CALCULATOR\n");
 
+
 while(con==1){
   cal_app();
 }
