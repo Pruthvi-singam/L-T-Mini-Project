@@ -8,9 +8,9 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = myapp
+APPNAME = Claculator
 EXT = .c
-SRCDIR = src
+SRCDIR =/mnt/c/Users/pruth/Desktop/PRUTHVI DETAILD/L-T-Mini-Project
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
