@@ -1,0 +1,321 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Mon Jul 12 13:20:01 2021
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := c:/Users/pruth/Desktop/PRUTHVI DETAILD/L-T-Mini-Project
+# default
+SHELL := sh.exe
+# envir 
+onment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVE = C:\Users\pruth\OneDrive\pruthvi\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile
+MAKEFILE_LIST := 
+# environment
+TMP = C:\Users\pruth\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ab32e14c-fd4e-403b-8a17-bc61ca8fc2d7-sock
+# environment
+VSCODE_CWD = C:\Users\pruth\AppData\Local\Programs\Microsoft VS Code
+# environment
+PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\pruth\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.3\bin;;C:\Users\pruth\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin;;C:\Users\pruth\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\4.4\bin;C:\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;
+# environment
+ONLINESERVICES = Online Services
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\pruth
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_18956_OMCIJOEKKPLXIQBG
+# environment
+VSCO 
+DE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = PRUTHVI
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = pruth
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\pruth\AppData\Roaming\Code\CachedData\2d23c42a936db1c7b3b06f918cde29561cc47cd6
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\PRUTHVI
+# environment
+ONEDRIVECONSUMER = C:\Users\pruth\OneDrive\pruthvi\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = PRUTHVI
+# environment
+INTELLIJ IDEA COMMUNITY EDITION = C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin;
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := 
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\pruth\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+ 
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\d4513e23f598b15c5038b319f3883511-1.58.0-main-sock
+# environment
+HOMEPATH = \Users\pruth
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+REGIONCODE = APJ
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+PLATFORMCODE = KV
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\pruth\AppData\Roaming
+# environment
+__COMPAT_LAYER = DetectorsShimLog
+# environment
+TEMP = C:\Users\pruth\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# environment
+VSCODE_BROWSER_CODE_LOADING = bypassHeatCheck
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# en 
+vironment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 8e0a
+# environment
+INTELLIJ IDEA EDUCATIONAL EDITION = C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.3\bin;
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+VSCODE_PID = 18956
+# environment
+USERDOMAIN_ROAMINGPROFILE = PRUTHVI
+# variable set hash-table stats:
+# Load=94/1024=9%, Rehash=0, Collisions=9/111=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# : could not be stat'd.
+# C:\Program Files\Common Files\Oracle\Java\javapath (key C:/Program Files/Common Files/Oracle/Java/javapath, mtime 1615454768): 6 files, no impossibilities.
+# C:\Users\pruth\AppData\Local\Microsoft\WindowsApps (key C:/Users/pruth/AppData/Local/Microsoft/WindowsApps, mtime 1625998065): 24 files, no impossibilities.
+# C:\Program Files\Java\jdk-15.0.2\bin (key C:/Program Files/Java/jdk-15.0.2/bin, mtime 1615454760): 124 files, no impossibilities.
+# C:\Progr 
+am Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin (key C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2020.2.3/bin, mtime 1620563532): 30 files, no impossibilities.
+# C:\windows\System32\WindowsPowerShell\v1.0\ (key C:/windows/System32/WindowsPowerShell/v1.0/, mtime 1622898672): 30 files, no impossibilities.
+# C:\windows\System32\Wbem (key C:/windows/System32/Wbem, mtime 1625516021): 155 files, no impossibilities.
+# . (key c:/Users/pruth/Desktop/PRUTHVI DETAILD/L-T-Mini-Project, mt 
+ime 1626075594): 12 files, no impossibilities.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (key C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common, mtime 1615039224): 10 files, no impossibilities.
+# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1615109327): 11 files, no impossibilities.
+# C:\MinGW\bin (key C:/MinGW/bin, mtime 1625571686): 219 files, no impossibilities.
+# C:\Program Files\MySQL\MySQL Shell 8.0\bin\ (key C:/Program Files/MySQL/MySQL Shell 8.0/bin/, mtime 1615092714): 7 files, no impossibilities.
+# C:\Program Files\Intel\iCLS Client\ (key C:/Program Files/Intel/iCLS Client/, mtime 1615038976): 11 files, no impossibilities.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\IPT (key C:/Program Files/Intel/Intel(R) Management Engine Components/IPT, mtime 1615038976): 5 files, no impossibilities.
+# C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
+# C:\Program Files (x86)\Intel\iCLS Client\ (key C:/Program Files (x86)/Intel/iCLS Client/, mtime 161503910 
+4): 8 files, no impossibilities.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\DAL (key C:/Program Files/Intel/Intel(R) Management Engine Components/DAL, mtime 1615038976): 4 files, no impossibilities.
+# C:\windows (key C:/windows, mtime 1625928432): 121 files, no impossibilities.
+# C:\Program Files\Intel\WiFi\bin\ (key C:/Program Files/Intel/WiFi/bin/, mtime 1615038995): 36 files, no impossibilities.
+# C:\Program Files\Common Files\Intel\WirelessCommon\ (key C:/Program Files/Common Files/I 
+ntel/WirelessCommon/, mtime 1615038923): 7 files, no impossibilities.
+# C:\Users\pruth\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/pruth/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1625980699): 4 files, no impossibilities.
+# C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.3\bin: could not be stat'd.
+# C:\Users\pruth\AppData\Roaming\npm (key C:/Users/pruth/AppData/Roaming/npm, mtime 1615109303): 2 files, no impossibilities.
+# C:\Program Files\Git\cmd (key C:/Program 
+ Files/Git/cmd, mtime 1625153372): 8 files, no impossibilities.
+# C:\windows\system32 (key C:/windows/system32, mtime 1626063659): 2906 files, no impossibilities.
+# C:\Program Files\MongoDB\Server\4.4\bin: could not be stat'd.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT (key C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT, mtime 1615039104): 6 files, no impossibilities.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL (key C:/Progra 
+m Files (x86)/Intel/Intel(R) Management Engine Components/DAL, mtime 1615039104): 10 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1626065766): 5 files, no impossibilities.
+
+# 3761 files, no impossibilities in 29 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats 
+:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has  
+not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# files hash-table stats:
+# Load=5/1024=0%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable 
+make.exe: *** No rule to make target `all'.  Stop.
+ 
+) search path.
+
+# # of strings in strcache: 0
+# # of strcache buffers: 0
+# strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
+# strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
+
+# Finished Make data base on Mon Jul 12 13:20:01 2021
+
+ 
