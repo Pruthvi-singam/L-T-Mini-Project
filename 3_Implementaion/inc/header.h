@@ -31,7 +31,7 @@ int power(calculate *compute);
 int squareroot(trigonometric *degree);
 
 int sine(trigonometric *degree);
-osine( trigonometric *degree);
+int cosine( trigonometric *degree);
 
 int ttan( trigonometric *degree);
 
