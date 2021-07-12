@@ -1,5 +1,5 @@
 
-#include"header.h" /* header file */
+#include"header.h" 
  int calculator_operations = 0;
 
   trigonometric tri;

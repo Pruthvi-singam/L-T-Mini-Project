@@ -46,4 +46,4 @@ int exponent(trigonometric *degree);
 int factorial(trigonometric *degree);
 
 int logbase10(trigonometric *degree);
-#endif  /* #define __calculateCULATOR_OPERATIONS_H__ */
+#endif  
