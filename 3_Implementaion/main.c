@@ -7,16 +7,19 @@
  static int con=1;
  void cal_app(void);
  enum operations{ add=1, sub, mul, divi, powe, sinee, cose, root, tangent, secant, cosecant, cote, expo, fa, loge, close}; 
+
 int main(){  
     printf("\n\t\t\t\tSCIENTIFIC_CALCULATOR\n");
 
 while(con==1){
-  cal_app();
-}
-if(con!=1){
-    printf("COMEBACK AGAIN ....!!");
-}
+            cal_app();
+            }
+            if(con!=1){
+                printf("COMEBACK AGAIN ....!!");
+            }
     }
+
+
 void cal_app(){
     printf("\nAvailable Operations\n");
     printf("---------------------------------------------------------------------------------------------------\n");

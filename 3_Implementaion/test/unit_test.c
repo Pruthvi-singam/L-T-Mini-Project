@@ -119,7 +119,7 @@ void test_cot(void) {
 void test_cosec(void) {
   TEST_ASSERT_EQUAL(-1.321,cosec(&testo));
    TEST_ASSERT_EQUAL(1.042,cosec(&testf2)); 
-
+}
 void test_zero_factorial(void)
 {
   TEST_ASSERT_EQUAL(1, factorial(&testf1));
