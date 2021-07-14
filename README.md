@@ -1,8 +1,8 @@
 # SCIENTIFIC CALCULATOR 
 # SDLC Activity Based Learning
 
-| Build | cppcheck                            | Unit testing |Code coverage |Git inspector | 
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|
+| Build | cppcheck                                                           | Unit testing |Code coverage |Git inspector | Code Quality|
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|----------------------------------------|
 |[![C/C++ CI Build](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/main.yml)|[![cppcheck-action-test](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/cppcheck.yml)|[![Unit Testing - Unity](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/Unity.yml/badge.svg)](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/Unity.yml)|[![CI coverage](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/CI-Coverage.yml/badge.svg)](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/CI-Coverage.yml)|[![Git Inspector](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pruthvi-singam/L-T-Mini-Project/actions/workflows/gitinspector.yml)|
 
 
