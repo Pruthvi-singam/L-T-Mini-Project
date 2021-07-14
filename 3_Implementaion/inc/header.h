@@ -1,8 +1,4 @@
-/**
- * @file header.h
- * @author your name (you@domain.com)
- *@ scietific calculator operations
- */
+
 #ifndef __header_H__
 #define __header_H__
 #include <stdio.h>
