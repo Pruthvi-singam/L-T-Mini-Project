@@ -1,6 +1,4 @@
 make.exe --dry-run --keep-going --print-directory
-make.exe: Entering directory `c:/Users/pruth/Desktop/PRUTHVI DETAILD/L-T-Mini-Project'
-make.exe: Leaving directory `c:/Users/pruth/Desktop/PRUTHVI DETAILD/L-T-Mini-Project'
- 
-make.exe: *** No targets specified and no makefile found.  Stop.
+'"make.exe"' is not recognized as an internal or external command,
+operable program or batch file.
  
