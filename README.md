@@ -22,4 +22,4 @@ Folder             | Description
 SF_ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `314123` | ` Singama Setti Sai Pruthvi`  | All |  No     |  No   | 19  |19    
-  `SME`  | `Prithvi Shekhar` | Template with folder strucure | No     |  No   | No   |No314123
+ 
