@@ -1,12 +1,6 @@
 /**
  * @file functions.c
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-07-14
- * 
- * @copyright Copyright (c) 2021
- * 
+ * @brief function definitionss
  */
 #include "header.h"
 int sum(calculate *compute){
@@ -84,10 +78,12 @@ float result= exp(tri->value3);
  return result;
 }
 int factorial(trigonometric *tri){
+  /* Return -1 for negative numbers */
   if(tri->value3 < 0)
     {printf("factorial for negative numbers not possible\n");
       return -1;}
 
+  /* Return 1 for 0 */
   if(tri->value3 == 0)
    { return 1;}
     long long int fact=1;
