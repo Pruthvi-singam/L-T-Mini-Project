@@ -1,10 +1,10 @@
-3_Implementaion/main.c:24:7: style: Condition 'con!=1' is always true [knownConditionTrueFalse]
+3_Implementaion/main.c:25:7: style: Condition 'con!=1' is always true [knownConditionTrueFalse]
 if(con!=1){
       ^
-3_Implementaion/main.c:21:10: note: Assuming that condition 'con==1' is not redundant
+3_Implementaion/main.c:22:10: note: Assuming that condition 'con==1' is not redundant
 while(con==1){
          ^
-3_Implementaion/main.c:24:7: note: Condition 'con!=1' is always true
+3_Implementaion/main.c:25:7: note: Condition 'con!=1' is always true
 if(con!=1){
       ^
 3_Implementaion/unity/unity.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 42 configurations. Use --force to check all configurations. [toomanyconfigs]
